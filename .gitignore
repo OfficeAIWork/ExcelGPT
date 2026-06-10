@@ -1,2 +1,11 @@
-附件清单.md/nindex.html
+# 仅在本地保留的文件
+_export_temp.html
+index.html
+overview.html
+overview.pdf
+overview_check.html
+product.html
+附件清单.md
 网盘附件/
+*.docx
+*.pdf
